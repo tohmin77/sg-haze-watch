@@ -1,0 +1,8 @@
+{
+  "name": "central-haze-watch",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hourly PM2.5 and PSI for Singapore's Central region with a 14-day trend and 24-hour haze forecast.",
+  "scripts": { "test": "node --test test/*.test.js" },
+  "engines": { "node": ">=18" }
+}
